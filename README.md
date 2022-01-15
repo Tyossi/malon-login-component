@@ -1,8 +1,9 @@
-Malon global login component
+# Malon Global Login Component
 
-A login component built according to web development mordern best practices.
+A login component built according to mordern best practices of web development.
 
-https://malon-global-login.netlify.app/
+[The component's live link](https://malon-global-login.netlify.app/)
+
 
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
