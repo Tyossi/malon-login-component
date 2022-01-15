@@ -2,7 +2,7 @@ Malon global login component
 
 A login component built according to web development mordern best practices.
 
-https://hairwayslandingpage.netlify.app/
+https://malon-global-login.netlify.app/
 
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
