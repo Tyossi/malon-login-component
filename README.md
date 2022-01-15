@@ -1,4 +1,5 @@
 Malon global login component
+
 A login component built according to web development mordern best practices.
 
 https://hairwayslandingpage.netlify.app/
